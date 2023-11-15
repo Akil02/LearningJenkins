@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="43" started-at="2023-11-14T21:31:10 IST" finished-at="2023-11-14T21:31:10 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="43" started-at="2023-11-14T21:31:10 IST" finished-at="2023-11-14T21:31:10 IST">
+      <class name="SampleProject.Sample.BasicSample">
+        <test-method status="PASS" signature="SmapleTest1()[pri:0, instance:SampleProject.Sample.BasicSample@1e6d1014]" name="SmapleTest1" duration-ms="6" started-at="2023-11-14T21:31:10 IST" finished-at="2023-11-14T21:31:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SmapleTest1 -->
+        <test-method status="PASS" signature="SmapleTest2()[pri:0, instance:SampleProject.Sample.BasicSample@1e6d1014]" name="SmapleTest2" duration-ms="0" started-at="2023-11-14T21:31:10 IST" finished-at="2023-11-14T21:31:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SmapleTest2 -->
+        <test-method status="PASS" signature="SmapleTest3()[pri:0, instance:SampleProject.Sample.BasicSample@1e6d1014]" name="SmapleTest3" duration-ms="1" started-at="2023-11-14T21:31:10 IST" finished-at="2023-11-14T21:31:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SmapleTest3 -->
+      </class> <!-- SampleProject.Sample.BasicSample -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
